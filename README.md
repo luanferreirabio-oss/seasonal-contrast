@@ -26,10 +26,10 @@ The study integrates three compartments of the lower Tocantins River (Pará, Bra
 
 | Field code | Island |
 |---|---|
-| P1 | Santana |
-| P2 | Santaninha |
-| P3 | Angapijó |
-| P4 | Conceição |
+| P1 | Angapijó |
+| P2 | Conceição |
+| P3 | Santana |
+| P4 | Santaninha |
 | P5 | São Joaquim |
 | P6 | Tauaré |
 
@@ -45,11 +45,6 @@ Always join datasets by island **name**, not by code or position.
 | `20_solo.py` | Soil attributes, molar ratios, Gapon coefficient, apparent selectivities |
 | `30_guildas.py` | Guild assembly, abundances, exact p values by complete enumeration |
 
-### `figures/`
-
-`Fig1.png` to `Fig6.png`, as they appear in the manuscript.
-
-> **Note on resolution.** These copies were extracted from the manuscript file and are about 299 dpi at 174 mm width. The Journal of Soils and Sediments requires 600 dpi for combination art. Replace them with the originals before submission.
 
 ---
 
@@ -59,7 +54,7 @@ Raw reads are deposited in the Sequence Read Archive (SRA) of the National Cente
 
 ## Genetic heritage
 
-Access to genetic heritage was registered in the Brazilian National System for the Management of Genetic Heritage and Associated Traditional Knowledge (SisGen) under number `[SisGen CODE — TO BE COMPLETED]`, in accordance with Law 13.123/2015.
+Access to genetic heritage was registered in the Brazilian National System for the Management of Genetic Heritage and Associated Traditional Knowledge (SisGen) under number A2AD73B, in accordance with Law 13.123/2015.
 
 ## Reproducing the analyses
 
@@ -81,10 +76,4 @@ The soil chemistry comes from a single consolidated analytical record, without t
 1. Exchangeable aluminium was excluded because, across all units, the recorded value is a fixed multiple of the calcium content, with a residual smaller than the decimal place to which results were reported. The column is derived, not independently measured.
 2. The between-island dispersion of calcium and magnesium in this record is very low and should be treated as indicative, not as an estimate of real variability between islands. The conclusions of the paper rest on order-of-magnitude contrasts (3.9–19.9× in Ca/K between water and soil), which are unaffected.
 
-## Licence
 
-`[TO BE CHOSEN BY THE AUTHORS — CC BY 4.0 is suggested for the data and MIT for the code.]`
-
-## How to cite
-
-`[CITATION AND DOI — add once the repository is archived, e.g. on Zenodo, and copy the DOI into the manuscript's Data availability statement.]`
