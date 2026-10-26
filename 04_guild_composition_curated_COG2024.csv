@@ -1,0 +1,67 @@
+guilda,COG,categoria,gene,descricao
+K_captacao,COG0168,P,TrkG,"Trk-type K+ transport system, membrane component"
+K_captacao,COG3158,P,Kup,K+ uptake protein Kup
+K_captacao,COG2060,P,KdpA,"K+-transporting ATPase, KdpA subunit"
+K_captacao,COG2216,P,KdpB,"K+ transport ATPase, ATPase subunit KdpB"
+K_captacao,COG2156,P,KdpC,"K+-transporting ATPase, KdpC subunit"
+K_captacao,COG1226,P,Kch,Voltage-gated potassium channel Kch
+K_regulatorio,COG0569,PT,TrkA,"Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain"
+K_regulatorio,COG0490,PT,KhtT,"K+/H+ antiporter KhtSTU, c-di-AMP-binding regulatory subunit KhtT, contains RCK_C (TrkA_C) domain"
+K_regulatorio,COG1652,P,XkdP,"Cytoplasmic potassium-binding protein Kbp/XkdP/YgaU, contains LysM domain"
+K_regulatorio,COG2205,T,KdpD,K+-sensing histidine kinase KdpD
+K_efluxo,COG0475,P,KefB,"Kef-type K+ transport system, membrane component KefB"
+K_efluxo,COG4651,P,RosB,"Predicted Kef-type K+ transport protein, K+/H+ antiporter domain"
+K_efluxo,COG0025,P,NhaP,NhaP-type Na+/H+ or K+/H+ antiporter
+K_efluxo,COG3263,CP,NhaP2,NhaP-type Na+/H+ and K+/H+ antiporter with C-terminal TrkAC and CorC domains
+K_efluxo,COG0387,P,ChaA,Cation (Ca2+/Na+/K+)/H+ antiporter ChaA
+Mg_captacao,COG0598,P,CorA,Mg2+ and Co2+ transporter CorA
+Mg_captacao,COG2239,P,MgtE,Mg/Co/Ni transporter MgtE (contains CBS domain)
+Mg_captacao,COG0474,P,MgtA,Magnesium-transporting ATPase (P-type)
+Mg_captacao,COG1285,P,SapB,"Magnesium uptake protein YhiD/SapB, involved in acid resistance"
+Mg_captacao,COG3174,P,MgtC,"Membrane component of predicted Mg2+ transport system, contains DUF4010 domain"
+Mg_homeostase,COG1253,PT,MpfA,"Mg2+ efflux pump MpfA, contains CBS pair and CorC-HlyC domains, TlyC/UPF0053 family"
+Mg_homeostase,COG4535,P,CorC,"Mg2+ and Co2+ transporter CorC, contains CBS pair and CorC-HlyC domains"
+Mg_homeostase,COG4536,P,CorB,"Mg2+ and Co2+ transporter CorB, contains DUF21, CBS pair, and CorC-HlyC domains"
+Na_homeostase,COG3004,CP,NhaA,Na+/H+ antiporter NhaA
+Na_homeostase,COG3067,CP,NhaB,Na+/H+ antiporter NhaB
+Na_homeostase,COG0025,P,NhaP,NhaP-type Na+/H+ or K+/H+ antiporter
+Na_homeostase,COG3263,CP,NhaP2,NhaP-type Na+/H+ and K+/H+ antiporter with C-terminal TrkAC and CorC domains
+Na_homeostase,COG1757,C,NhaC,Na+/H+ antiporter NhaC/MleN
+Na_homeostase,COG1055,P,ArsB,Na+/H+ antiporter NhaD or related arsenite permease
+Na_homeostase,COG0387,P,ChaA,Cation (Ca2+/Na+/K+)/H+ antiporter ChaA
+Na_homeostase,COG0530,P,ECM27,Ca2+/Na+ antiporter
+Na_homeostase,COG1006,P,MnhC,"Multisubunit Na+/H+ antiporter, MnhC subunit"
+Na_homeostase,COG1320,P,MnhG,"Multisubunit Na+/H+ antiporter, MnhG subunit"
+Na_homeostase,COG1863,P,MnhE,"Multisubunit Na+/H+ antiporter, MnhE subunit"
+Na_homeostase,COG2111,P,MnhB,"Multisubunit Na+/H+ antiporter, MnhB subunit"
+Na_homeostase,COG2212,P,MnhF,"Multisubunit Na+/H+ antiporter, MnhF subunit"
+Na_homeostase,COG0651,CP,HyfB,"Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit"
+Na_homeostase,COG1668,CP,NatB,"ABC-type Na+ efflux pump, permease component NatB"
+Na_homeostase,COG4555,CP,NatA,"ABC-type Na+ transport system, ATPase component NatA"
+Fe_captacao,COG0370,P,FeoB,Fe2+ transporter FeoB
+Fe_captacao,COG1918,P,FeoA,Fe2+ transport protein FeoA
+Fe_captacao,COG0672,P,FTR1,High-affinity Fe2+/Pb2+ permease
+Fe_captacao,COG1914,P,MntH,"Mn2+ or Fe2+ transporter, NRAMP family"
+Fe_captacao,COG3470,MI,Tpd,Uncharacterized conserved protein probably involved in high-affinity Fe2+ transport
+Fe_captacao,COG0609,P,FepD,"ABC-type Fe3+-siderophore transport system, permease component"
+Fe_captacao,COG0614,P,FepB,"ABC-type Fe3+-hydroxamate transport system, periplasmic component"
+Fe_captacao,COG1120,PH,FepC,"ABC-type cobalamin/Fe3+-siderophores transport system, ATPase component"
+Fe_captacao,COG4592,P,FepB,"ABC-type Fe2+-enterobactin transport system, periplasmic component"
+Fe_captacao,COG4594,P,FecB,"ABC-type Fe3+-citrate transport system, periplasmic component"
+Fe_captacao,COG4779,P,FepG,"ABC-type enterobactin transport system, permease component"
+Fe_captacao,COG4604,P,CeuD,"ABC-type enterochelin transport system, ATPase component"
+Fe_captacao,COG4605,P,CeuC,"ABC-type enterochelin transport system, permease component"
+Fe_captacao,COG4606,P,CeuB,"ABC-type enterochelin transport system, permease component"
+Fe_captacao,COG4607,P,CeuA,"ABC-type enterochelin transport system, periplasmic component"
+Fe_captacao,COG4771,P,FepA,Outer membrane receptor for ferrienterochelin and colicins
+Fe_captacao,COG4772,P,FecA,Outer membrane receptor for Fe3+-dicitrate
+Fe_captacao,COG4773,P,FhuE,Outer membrane receptor for ferric coprogen and ferric-rhodotorulic acid
+Fe_captacao,COG1178,P,FbpB,"ABC-type Fe3+ transport system, permease component"
+Fe_captacao,COG0390,P,FetB,"ABC-type iron transport system FetAB, permease component"
+Fe_captacao,COG4619,P,FetA,"ABC-type iron transporter FetAB, ATPase component"
+Fe_captacao,COG4558,P,ChuT,"ABC-type hemin transport system, periplasmic component"
+Fe_captacao,COG4559,P,,"ABC-type hemin transport system, ATPase component"
+Fe_captacao,COG3182,P,PiuB,"Integral membrane siderophore reductase FoxB, contains PepSY domain"
+Fe_captacao,COG2375,P,ViuB,"NADPH-dependent ferric siderophore reductase, contains FAD-binding and SIP domains"
+Fe_captacao,COG4114,P,FhuF,"Ferric iron reductase protein FhuF, involved in iron transport"
+Fe_captacao,COG4097,P,,Predicted ferric reductase
